@@ -1,5 +1,5 @@
 # START LINE!
-# By: Sena * Rie from AIKATSU☆STARS!
+## By: Sena * Rie from AIKATSU☆STARS!
 
 Yume wa miru mono janai
 Kanaeru mono da yo
